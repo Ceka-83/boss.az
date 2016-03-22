@@ -1,0 +1,40 @@
+ 
+body {
+ 
+background-image: url("../image/bg.jpg"); 
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+ 
+}
+
+
+ 
+ .ads-bg {
+ 	background-color: gray;
+ 	max-width: 1000px;
+ 	height: auto;
+ 	margin: auto;
+ 	overflow: hidden;
+
+
+ }
+
+ .ads {
+	background-color: gray;
+	 overflow: hidden;
+	 margin-bottom: 15px; 
+ }
+
+
+ .navlist li {
+ 	display: inline;
+ 	color: white;
+ 	margin: 15px;
+   text-decoration: underline;
+ }
+
+
+.navlist a {
+	color: white;
+}
